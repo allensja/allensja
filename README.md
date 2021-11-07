@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @allensja
+- 👋 Hi, I’m @Sharod
 - 👀 I’m interested in all things cloud and learning Powershell.  
 - 🌱 I’m currently learning Powershell and Windows Active Directory Management Server Priviliges.  I am attending the Microsoft System and Softwar academy until Feb 2022. 
 - 💞️ I’m looking to collaborate on a beginner level project. 
